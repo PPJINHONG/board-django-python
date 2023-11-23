@@ -1,3 +1,3 @@
 # board-django-python
-
-kaa
+REST API 
+board web site 
